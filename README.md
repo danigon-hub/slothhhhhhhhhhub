@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Danielle Gonzales
-- 👀 I’m interested in software engineering. 
-- 🌱 I’m a third year computer science student, it's tough but I wouldn't have it any other way. 
-- 💞️ I’m looking to collaborate on nothing (i don't think i'm ready for that yet) however, if you want to help me out then reach out to me
-- 📫 How to reach me: email me (gonzales.e.danielle@gmail.com) or message me through GitHub if it's possible (I don't understand how GitHub works yet)
+- 👀 I’m teaching myself data engineering. 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniellegonzales1704)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Pickles are my favourite vegetable.
 
